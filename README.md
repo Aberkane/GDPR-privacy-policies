@@ -15,6 +15,7 @@ Currently under review at ACM TOPS.
 
 ## Scripts
 - Five NLP-based classification models to assess the GDPR-compliance practices promised in privacy policies; 
+- Webscraper;
 - A data set of 8 614 organizations headquartered in the EU, containing organizational information and GDPR-compliance promises derived from the organization’s privacy policy, as made publicly available.
 
 <!-- ## Welcome to GitHub Pages
