@@ -14,11 +14,16 @@ UGent Business Informatics group_
 Currently under review at ACM TOPS.
 
 ## Scripts
-- Five NLP-based classification models to assess the GDPR-compliance practices promised in privacy policies; 
-- Webscraper;
-- A data set of 8 614 organizations headquartered in the EU, containing organizational information and GDPR-compliance promises derived from the organization’s privacy policy, as made publicly available.
+- Stage 1: [Training Classification Models](https://github.com/Aberkane/GDPR-privacy-policies/blob/gh-pages/Stage%201%20-%20Classification%20and%20Calibration.ipynb)
+- Stage 2: [Scraping](https://github.com/Aberkane/GDPR-privacy-policies/blob/gh-pages/Stage%202.1%20-%20Privacy%20Policy%20Scraper.ipynb) & [Classification of scraped privacy policies](https://github.com/Aberkane/GDPR-privacy-policies/blob/gh-pages/Stage%202.2%20-%20Classification%20of%20Scraped%20Privacy%20Policies.ipynb)
+- Stage 3: [Analysis](https://github.com/Aberkane/GDPR-privacy-policies/blob/gh-pages/Stage%203%20-%20Analysis.ipynb)
+
+## Data
+- [Data set containing organizational information and GDPR classification (based on privacy policy) of 8,614 organizations in the EU.](https://raw.githubusercontent.com/Aberkane/GDPR-privacy-policies/gh-pages/8614.csv)
+
 
 <!-- ## Welcome to GitHub Pages
+[Link](url)
 
 You can use the [editor on GitHub](https://github.com/Aberkane/GDPR-compliance/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
