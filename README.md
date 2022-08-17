@@ -10,7 +10,7 @@ Department of Business Informatics and Operations Management (EB24)<br/>
 UGent Business Informatics group_
 
 ## Full Journal Article
-Currently under review at ACM TOPS.
+Currently under review at the Expert Systems with Applications Journal.
 
 ## Scripts
 - Stage 1: [Training Classification Models](https://github.com/Aberkane/GDPR-privacy-policies/blob/gh-pages/Stage%201%20-%20Classification%20and%20Calibration.ipynb)
