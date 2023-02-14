@@ -1,7 +1,15 @@
-# Towards Automated GDPR-compliance in Organizations: A Natural Language Processing Based Machine Learning Approach
+# An Analysis of Organizational Factors and their Relation with GDPR-Compliance: A Natural Language Processing Based Machine Learning Approach
 
 ## Abstract
-Recent works show that privacy policies often do not meet the General Data Protection Regulation (GDPR) requirements. To explore the underlying causes of non-compliance, this study leverages machine learning (ML) and natural language processing (NLP) to analyze data processing entities' organizational factors that correlate with GDPR-compliance practices as disclosed in privacy policies. In particular, we have examined the correlation of six organizational factors and their subclasses with the disclosure of five GDPR privacy policy core requirements in privacy policies. The contributions of this study are threefold. First, we have developed five NLP-based classification models—achieving a precision of at least 0.909—to assess the GDPR-compliance practices of data processing organizations as divulged in privacy policies. Second, we have collected a data set of 8614 organizations in the EU, containing organizational information and the GDPR-compliance promises derived from the organization's privacy policy. Lastly, we have analyzed the organizational factors that correlate with the disclosure of the five GDPR privacy policy core requirements in privacy policies. The analysis revealed, among other things, that being a public company typically positively correlates with the disclosure of the GDPR requirements. In contrast, the results reveal that being classified as a small and medium-sized enterprise negatively correlates with the disclosure of two GDPR requirements. Finally, concerning the impact of the location of the data processing entity, the results demonstrate that companies located in Ireland meet most of the GDPR requirements, while companies located in Poland fail to disclose the majority of the considered GDPR requirements.
+**Purpose** - This study aims to explore the underlying causes of General Data Protection Regulation (GDPR) non-compliance by utilizing machine learning (ML) and natural language processing (NLP) to assess the the correlation between organizational factors of data processing entities and their GDPR-compliant practices as disclosed in privacy policies.<br/>
+**Design/methodology/approach** - The research approach was threefold. First, we have developed five NLP-based classification models—achieving a precision of at least 0.903—to assess the GDPR-compliance practices of data processing organizations as divulged in privacy policies. Second, we have collected a data set of 8614 organizations in the EU containing organizational information and the GDPR-compliance promises derived from the organization's privacy policy. Lastly, we have analyzed the organizational factors that correlate with the disclosure of five GDPR privacy policy core requirements in privacy policies.<br/>
+**Findings** - The findings reveal, among other things, that small or medium-sized enterprises negatively correlate with the disclosure of GDPR privacy policy core requirements. Moreover, as a headquarters location, Germany performs best regarding positively correlating with disclosing GDPR requirements. On the other hand, Spain, Italy, Croatia, and Slovenia, show a negative correlation with disclosing multiple GDPR requirements.<br/>
+**Originality** - This study adds to the novel field of GDPR-compliance in practice and presents new insights into the challenge of GDPR-compliance. Our contributions can be a stepping stone for academics and professionals involved in developing targeted solutions to address the problem of non-compliance.<br/>
+
+**Paper type** - Research paper <br/>
+**Keywords** - General Data Protection Regulation, Data Protection, Privacy, Privacy Policy, Natural Language Processing, Machine Learning <br/>
+
+
 
 ## Authors
 **Abdel-Jaouad Aberkane**, **Seppe vanden Broucke**, and **Geert Poels**<br/>
@@ -10,7 +18,7 @@ Department of Business Informatics and Operations Management (EB24)<br/>
 UGent Business Informatics group_
 
 ## Full Journal Article
-Currently under review at the Expert Systems with Applications journal.
+Currently under review at the Digital Policy, Regulation and Governance journal.
 
 ## Scripts
 - Stage 1: [Training Classification Models](https://github.com/Aberkane/GDPR-privacy-policies/blob/gh-pages/Stage%201%20-%20Classification%20and%20Calibration.ipynb)
