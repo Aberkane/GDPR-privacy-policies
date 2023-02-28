@@ -12,10 +12,7 @@
 
 
 ## Authors
-**Abdel-Jaouad Aberkane**, **Seppe vanden Broucke**, and **Geert Poels**<br/>
-_Faculty of Economics and Business Administration<br/>
-Department of Business Informatics and Operations Management (EB24)<br/>
-UGent Business Informatics group_
+**Author(s) Blinded**<br/>
 
 ## Full Journal Article
 Currently under review at the Digital Policy, Regulation and Governance journal.
