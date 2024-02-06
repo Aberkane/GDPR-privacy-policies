@@ -15,7 +15,7 @@
 **Author(s) Blinded**<br/>
 
 ## Full Journal Article
-Currently under review at the Digital Policy, Regulation and Governance journal.
+Currently under review at the International Journal of Information Systems and Project Management (IJISPM)
 
 ## Scripts
 - Stage 1: [Training Classification Models](https://github.com/Aberkane/GDPR-privacy-policies/blob/gh-pages/Stage%201%20-%20Classification%20and%20Calibration.ipynb)
