@@ -8,10 +8,10 @@ This paper employs machine learning (ML) and natural language processing (NLP) t
 
 
 ## Authors
-**Author(s) Blinded**<br/>
+Abdel-Jaouad Aberkane, Seppe vanden Broucke, Geert Poels<br/>
 
 ## Full Journal Article
-Currently under review at the International Journal of Information Systems and Project Management (IJISPM)
+DOI: [https://doi.org/10.12821/ijispm130202](https://doi.org/10.12821/ijispm130202)
 
 ## Scripts
 - Stage 1: [Training Classification Models](https://github.com/Aberkane/GDPR-privacy-policies/blob/gh-pages/Stage%201%20-%20Classification%20and%20Calibration.ipynb)
